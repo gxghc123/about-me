@@ -1,2 +1,2 @@
 # about-me
-hu jun jie jian li
+关于我
